@@ -1,7 +1,7 @@
-# Deep Learning Experimentation with MNIST and notMNIST
+# QR Coresets for Variational Continual Learning
 
 ## Overview
-This project is designed to showcase deep learning techniques with a focus on Bayesian models, coreset visualization, and multi-headed architectures. By conducting experiments on MNIST and notMNIST datasets, it provides a practical understanding of how different models and approaches perform on image classification tasks.
+Exploring pivoted QR coreset selection to mitigate catastrophic forgetting in Bayesian neural networks, building on Variational Continual Learning (Nguyen et al., ICLR 2018). Experiments on MNIST, notMNIST and CIFAR-10.
 
 ## Project Structure
 - `experiment_mnist.ipynb`: Jupyter notebook detailing experiments on the MNIST dataset.
